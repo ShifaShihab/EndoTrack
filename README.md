@@ -1,6 +1,4 @@
-Here's the updated template with your project name and team details:
 
----
 
 # EndoTrack 🎯
 
@@ -8,9 +6,9 @@ Here's the updated template with your project name and team details:
 ### Team Name: EndoTrack
 
 ### Team Members
-- Member 1: Nandana S - College of Engineering, Perumon
-- Member 2: Niranjana P - College of Engineering, Perumon
-- Member 3: Shifa Shihab - College of Engineering, Perumon
+- Member 1: Nandana S - College of Engineering Perumon
+- Member 2: Niranjana P - College of Engineering Perumon
+- Member 3: Shifa Shihab - College of Engineering Perumon
 
 ### Hosted Project Link
 [mention your project hosted project link here]
