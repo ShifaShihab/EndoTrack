@@ -3,7 +3,7 @@
 # EndoTrack 🎯
 
 ## Basic Details
-### Team Name: EndoTrack
+### Team Name:Digital Divas
 
 ### Team Members
 - Member 1: Nandana S - College of Engineering Perumon
@@ -30,11 +30,6 @@ For Software:
 - **Libraries**: Firebase, Chart.js
 - **Tools**: Visual Studio Code, Firebase Console, Vercel
 
-For Hardware:
-- [List main components, if applicable]
-- [List specifications, if applicable]
-- [List tools required, if applicable]
-
 ### Implementation
 For Software:
 # Installation
@@ -49,52 +44,20 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
-
-# Build Photos
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
-
+[1](https://github.com/user-attachments/assets/f99ea077-ba59-45e0-9d7a-0751cc8d8082)
+This is the data input feature for the symptom tracker.10 symptoms are included with an option to rate the intensity ranging from 0 - 10.
+[2](https://github.com/user-attachments/assets/5cf1a5a1-33f8-48a2-8021-1761dcc79e20)
+This is the symptom intensity visualized in the form of a graph for easy analysis of trends.
+[3](https://github.com/user-attachments/assets/f9ce4435-0284-4bcc-afc7-9fb4925a5353)
+This is the final analysis based on the inputs .
 ### Project Demo
 # Video
-[Add your demo video link here]
-Explain what the video demonstrates
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- Nandana S: [Specific contributions]
-- Niranjana P: [Specific contributions]
-- Shifa Shihab: [Specific contributions]
+https://github.com/user-attachments/assets/431b1a73-4091-4231-939b-2f382a69ab88
+
+
+The video demonstrates the working of EndoTrack-Symptom tracker.There exists an input feature to rate the intensity of symptoms on a scale of 0-10 . This data is represented in a chart which is then  analysed to find trends
 
 ---
 Made with ❤ at TinkerHub
