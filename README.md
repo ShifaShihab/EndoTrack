@@ -44,11 +44,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-[1](https://github.com/user-attachments/assets/f99ea077-ba59-45e0-9d7a-0751cc8d8082)
+![1](https://github.com/user-attachments/assets/f99ea077-ba59-45e0-9d7a-0751cc8d8082)
 This is the data input feature for the symptom tracker.10 symptoms are included with an option to rate the intensity ranging from 0 - 10.
-[2](https://github.com/user-attachments/assets/5cf1a5a1-33f8-48a2-8021-1761dcc79e20)
+![2](https://github.com/user-attachments/assets/5cf1a5a1-33f8-48a2-8021-1761dcc79e20)
 This is the symptom intensity visualized in the form of a graph for easy analysis of trends.
-[3](https://github.com/user-attachments/assets/f9ce4435-0284-4bcc-afc7-9fb4925a5353)
+![3](https://github.com/user-attachments/assets/f9ce4435-0284-4bcc-afc7-9fb4925a5353)
 This is the final analysis based on the inputs .
 ### Project Demo
 # Video
