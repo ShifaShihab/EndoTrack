@@ -11,7 +11,7 @@
 - Member 3: Shifa Shihab - College of Engineering Perumon
 
 ### Hosted Project Link
-[[mention your project hosted project link here]](https://endo-track.vercel.app/)
+[[EndoTrack-Symptom Tracker]](https://endo-track.vercel.app/)
 
 ### Project Description
 EndoTrack is a web-based application designed to help users track their endometriosis symptoms, analyze trends, and visualize their health data over time.
